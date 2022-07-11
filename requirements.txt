@@ -52,3 +52,4 @@ pycparser==2.20
 PyGetWindow==0.0.9
 PyMsgBox==1.0.9
 pytest-xdist==2.4.0
+GitPython==2.1.11
